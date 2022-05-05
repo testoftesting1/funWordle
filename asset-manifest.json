@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wordleGame/static/css/main.90da54e1.css",
-    "main.js": "/wordleGame/static/js/main.a7b4c20c.js",
-    "static/js/787.e01666d6.chunk.js": "/wordleGame/static/js/787.e01666d6.chunk.js",
-    "static/media/cat.webp": "/wordleGame/static/media/cat.49e632048c8c443b7a2b.webp",
-    "static/media/penguin.png": "/wordleGame/static/media/penguin.62f0cf2ff2eeb54b1d99.png",
-    "index.html": "/wordleGame/index.html",
-    "main.90da54e1.css.map": "/wordleGame/static/css/main.90da54e1.css.map",
-    "main.a7b4c20c.js.map": "/wordleGame/static/js/main.a7b4c20c.js.map",
-    "787.e01666d6.chunk.js.map": "/wordleGame/static/js/787.e01666d6.chunk.js.map"
+    "main.css": "/funWordle/static/css/main.90da54e1.css",
+    "main.js": "/funWordle/static/js/main.601a7d9d.js",
+    "static/js/787.e01666d6.chunk.js": "/funWordle/static/js/787.e01666d6.chunk.js",
+    "static/media/cat.webp": "/funWordle/static/media/cat.49e632048c8c443b7a2b.webp",
+    "static/media/penguin.png": "/funWordle/static/media/penguin.62f0cf2ff2eeb54b1d99.png",
+    "index.html": "/funWordle/index.html",
+    "main.90da54e1.css.map": "/funWordle/static/css/main.90da54e1.css.map",
+    "main.601a7d9d.js.map": "/funWordle/static/js/main.601a7d9d.js.map",
+    "787.e01666d6.chunk.js.map": "/funWordle/static/js/787.e01666d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90da54e1.css",
-    "static/js/main.a7b4c20c.js"
+    "static/js/main.601a7d9d.js"
   ]
 }
